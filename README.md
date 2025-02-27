@@ -1,6 +1,7 @@
 ## Hi 👋
 ссылка на проект: @ArtPhoenix_bot
 
+![image](https://github.com/user-attachments/assets/a92cb7b4-0e8a-4ee5-b5fb-b20e19dba0ac)
 https://github.com/pavlovapavlena/pavlovapavlena/blob/3bf5e44c89cb6fe9353e564906945e62ad0f5216/2025-02-27_18-16-25%20БОТ%201.png
 
 
