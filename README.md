@@ -1,6 +1,6 @@
 ## Hi 👋
 ссылка на проект: @ArtPhoenix_bot
-https://github.com/pavlovapavlena/pavlovapavlena/blob/main/2025-02-27_17-09-18%20ГУГЛ%20КАЛЕНДАРЬ%20РЕГИСТРАЦИИ%20МК.png
+
 
 
 
